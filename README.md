@@ -42,17 +42,17 @@ LeetCode/
 
 Each solution contains:
 
-- ✅ Problem Name
-- ✅ Approach
-- ✅ Code
+- Problem Name
+- Approach
+- Code
 
 ---
 
-## 💻 Languages Used
+##  Languages Used
 
-- Java ☕
+- Java 
 - html
-- Python 🐍
+- Python
 - Js
 - css  
 
@@ -62,7 +62,7 @@ Each solution contains:
 
 ##  My LeetCode Profile
 
-https://leetcode.com/rahulizthe/
+https://leetcode.com/rahulizthe_/
 
 ---
 
