@@ -14,30 +14,6 @@ This repository contains my daily solutions to LeetCode problems as part of my D
 
 ---
 
-## Repository Structure
-
-```
-LeetCode/
-│
-├── Easy/
-│   ├── ...
-│   ├── ...
-│   └── ...
-│
-├── Medium/
-│   ├── ...
-│   ├── ...
-│   └── ...
-│
-├── Hard/
-│   ├── ...
-│   └── ...
-│
-└── README.md
-```
-
----
-
 ## Solution Format
 
 Each solution contains:
